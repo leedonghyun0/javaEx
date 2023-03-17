@@ -1,6 +1,6 @@
 // 패키지 선언
 package bmiEx;
-
+// 새로운 추가 1
 // 클래스 선언문
 // 접근제한자 class 클래스명
 public class Bmi {
